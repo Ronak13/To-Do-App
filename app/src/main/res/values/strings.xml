@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">To do app</string>
+    <string name="guide_str">"- \" + \" to Add New Task.\n- Right Swipe to Edit Task.\n- Left Swipe to Delete Task"</string>
+</resources>
