@@ -1,5 +1,6 @@
 # To-Do-App
 
+## Simple application to write your To Do and manage it!!
 ## App Overview
 ![Screenshot_20201204-000715](https://user-images.githubusercontent.com/35537067/101073739-e9aa1780-35c5-11eb-9bd1-37f40e1fd5ab.png)
 
